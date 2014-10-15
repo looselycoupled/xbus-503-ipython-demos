@@ -4,7 +4,7 @@ This project contains demonstration code for the XBUS-503 Data Wrangling course 
 
 ## BeautifulSoup
 
-This notebook demonstrates the ease with which one can use [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) to efficiently navigate HTML.  
+This notebook demonstrates the ease with which one can use [BeautifulSoup](http://www.crummy.com/software/BeautifulSoup/) to efficiently navigate and parse HTML.  
 
 ## Pandas
 
