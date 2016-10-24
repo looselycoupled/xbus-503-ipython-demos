@@ -12,7 +12,7 @@ def main():
     html_id = 'block-views-v11-related-content-block-3'
 
     for h5 in soup.find(id=html_id).find_all('h5'):
-        print h5.find('a').string
+        print(h5.find('a').string)
 
 
 if __name__ == '__main__':
